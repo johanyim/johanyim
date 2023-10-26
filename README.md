@@ -1,5 +1,15 @@
-### Hi, I'm Johan Yim
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+# Hi, I'm Johan Yim 
+
+
+Gender: Male
+Location: UK
+Languages: Rust, C, Bash,
+Education: University of Bath Mcomp (Hons)
+
+
+
+
+
 <!--
 **johanyim/johanyim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
