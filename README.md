@@ -1,5 +1,5 @@
 ### Hi, I'm Johan Yim
-
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=github&logoColor=white)
 
 <!--
 **johanyim/johanyim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
