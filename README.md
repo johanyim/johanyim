@@ -1,11 +1,16 @@
-# Hi, I'm Johan Yim 
+# Hi, I'm Johan
+
+I'm a programmer with a passion for creating low-level utilities with simplicity and robustness. 
+I am biased toward becoming better rather than reaching the solution, choosing to learn everything I know the long way.
+
+I am an absolute minimalist in life and in programming. I believe that the simplest systems are the best. 
+
+I have used Linux as my daily driver for years, becoming experienced in configuring and writing low-level programs.
 
 
-Gender: Male
-Location: UK
-Languages: Rust, C, Bash,
-Education: University of Bath Mcomp (Hons)
+### Languages: Rust, C, Bash, HTML, CSS
 
+### Education: University of Bath MComp (Hons)
 
 
 
